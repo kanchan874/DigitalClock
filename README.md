@@ -41,3 +41,9 @@ To run this project locally:
    ```bash
 https://github.com/kanchan874/DigitalClock
 This is my Repository link
+
+2.Open the folder in VS Code:
+cd digital-clock
+code .
+
+3.Run index.html in your browser.
