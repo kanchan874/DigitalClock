@@ -28,7 +28,7 @@ This is a simple and elegant **Digital Clock** project built using HTML, CSS, an
 
 ## 📸 Preview
 
-> *(Insert your image here once added)*  
+Image INSERT
 image.png
 
 ---
